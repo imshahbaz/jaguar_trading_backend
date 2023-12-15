@@ -1,4 +1,5 @@
-FROM openjdk:17-jdk-slim-buster
+FROM eclipse-temurin:17-jdk-alpine
+VOLUME /tmp
+COPY target/*.jar app.jar
+ENTRYPOINT ["java","-jar","/app.jar"]
 EXPOSE 8090
-ADD target/jaguar_trading_backend.jar jaguar_trading_backend.jar
-ENTRYPOINT ["java","-jar","/jaguar_trading_backend.jar"]
