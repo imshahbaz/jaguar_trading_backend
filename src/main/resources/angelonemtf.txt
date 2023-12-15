@@ -1,0 +1,3612 @@
+{
+   "360 ONE WAM LIMITED": {
+      "FIELD2": "360ONE",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "3M INDIA LIMITED": {
+      "FIELD2": "3MINDIA",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "AARTI DRUGS LTD.": {
+      "FIELD2": "AARTIDRUGS",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "AARTI INDUSTRIES LTD": {
+      "FIELD2": "AARTIIND",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "AAVAS FINANCIERS LIMITED": {
+      "FIELD2": "AAVAS",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ABB INDIA LIMITED": {
+      "FIELD2": "ABB",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "ABBOTT INDIA LIMITED": {
+      "FIELD2": "ABBOTINDIA",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "ADITYA BIRLA CAPITAL LTD.": {
+      "FIELD2": "ABCAPITAL",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "ADITYA BIRLA FASHION & RT": {
+      "FIELD2": "ABFRL",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "ADIT BIRL SUN LIF AMC LTD": {
+      "FIELD2": "ABSLAMC",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ACC LIMITED": {
+      "FIELD2": "ACC",
+      "FIELD3": 45,
+      "FIELD4": 45
+   },
+   "ACCELYA SOLN INDIA LTD": {
+      "FIELD2": "ACCELYA",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "ACTION CONST EQUIP LTD": {
+      "FIELD2": "ACE",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "ADANI ENTERPRISES LIMITED": {
+      "FIELD2": "ADANIENT",
+      "FIELD3": 35,
+      "FIELD4": 35
+   },
+   "ADANI PORT & SEZ LTD": {
+      "FIELD2": "ADANIPORTS",
+      "FIELD3": 35,
+      "FIELD4": 35
+   },
+   "ADF FOODS LIMITED": {
+      "FIELD2": "ADFFOODS",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "ADVANCED ENZYME TECH LTD": {
+      "FIELD2": "ADVENZYMES",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "AEGIS LOGISTICS LIMITED": {
+      "FIELD2": "AEGISCHEM",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "AFFLE (INDIA) LIMITED": {
+      "FIELD2": "AFFLE",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "AGARWAL INDS CORP LTD.": {
+      "FIELD2": "AGARIND",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "AGI GREENPAC LIMITED": {
+      "FIELD2": "AGI",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "AHLUWALIA CONT IND LTD": {
+      "FIELD2": "AHLUCONT",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "AIA ENGINEERING LIMITED": {
+      "FIELD2": "AIAENG",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "AJANTA PHARMA LIMITED": {
+      "FIELD2": "AJANTPHARM",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "AKZO NOBEL INDIA LIMITED": {
+      "FIELD2": "AKZOINDIA",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "ALEMBIC LIMITED": {
+      "FIELD2": "ALEMBICLTD",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "ALKEM LABORATORIES LTD.": {
+      "FIELD2": "ALKEM",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "ALKYL AMINES CHEM. LTD": {
+      "FIELD2": "ALKYLAMINE",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ALLCARGO LOGISTICS LTD": {
+      "FIELD2": "ALLCARGO",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "AMARA RAJA BATTERIES LTD.": {
+      "FIELD2": "AMARAJABAT",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "AMBER ENTERPRISES (I) LTD": {
+      "FIELD2": "AMBER",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "AMBUJA CEMENTS LTD": {
+      "FIELD2": "AMBUJACEM",
+      "FIELD3": 35,
+      "FIELD4": 35
+   },
+   "AMI ORGANICS LIMITED": {
+      "FIELD2": "AMIORG",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "AMRUTAJAN HEALTH LTD": {
+      "FIELD2": "AMRUTANJAN",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ANAND RATHI WEALTH LTD": {
+      "FIELD2": "ANANDRATHI",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "ANDHRA PAPER LIMITED": {
+      "FIELD2": "ANDHRAPAP",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "ANDHRA SUGARS LTD": {
+      "FIELD2": "ANDHRSUGAR",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "ANGEL ONE LIMITED": {
+      "FIELD2": "ANGELONE",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "THE ANUP ENGINEERING LTD": {
+      "FIELD2": "ANUP",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "ANUPAM RASAYAN INDIA LTD": {
+      "FIELD2": "ANURAS",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "APAR INDUSTRIES LTD.": {
+      "FIELD2": "APARINDS",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "APCOTEX INDUSTRIES LIMITE": {
+      "FIELD2": "APCOTEXIND",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "APEX FROZEN FOODS LIMITED": {
+      "FIELD2": "APEX",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "APL APOLLO TUBES LTD": {
+      "FIELD2": "APLAPOLLO",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ALEMBIC PHARMA LTD": {
+      "FIELD2": "APLLTD",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "APOLLO HOSPITALS ENTER. L": {
+      "FIELD2": "APOLLOHOSP",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "APOLLO TYRES LTD": {
+      "FIELD2": "APOLLOTYRE",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "APTUS VALUE HSG FIN I LTD": {
+      "FIELD2": "APTUS",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ARMAN FIN SERV LTD": {
+      "FIELD2": "ARMANFIN",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "ARVIND LIMITED": {
+      "FIELD2": "ARVIND",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "ASAHI INDIA GLASS LIMITED": {
+      "FIELD2": "ASAHIINDIA",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ASSO ALCOHOLS & BREW LTD": {
+      "FIELD2": "ASALCBR",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "ASHIANA HOUSING LTD": {
+      "FIELD2": "ASHIANA",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "ASHOKA BUILDCON LTD": {
+      "FIELD2": "ASHOKA",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ASHOK LEYLAND LTD": {
+      "FIELD2": "ASHOKLEY",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "ASIAN PAINTS LIMITED": {
+      "FIELD2": "ASIANPAINT",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "ASTEC LIFESCIENCES LTD": {
+      "FIELD2": "ASTEC",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ASTER DM HEALTHCARE LTD.": {
+      "FIELD2": "ASTERDM",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ASTRAL LIMITED": {
+      "FIELD2": "ASTRAL",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "ASTRA MICROWAVE LTD": {
+      "FIELD2": "ASTRAMICRO",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "ASTRAZENECA PHARMA IND LT": {
+      "FIELD2": "ASTRAZEN",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "ATUL LTD": {
+      "FIELD2": "ATUL",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "AU SMALL FINANCE BANK LTD": {
+      "FIELD2": "AUBANK",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "AUROBINDO PHARMA LTD": {
+      "FIELD2": "AUROPHARMA",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "AUTOMOTIVE AXLES LIMITED": {
+      "FIELD2": "AUTOAXLES",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "AVADH SUG & ENERGY LTD": {
+      "FIELD2": "AVADHSUGAR",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "AVANTI FEEDS LIMITED": {
+      "FIELD2": "AVANTIFEED",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ANTONY WASTE HDG CELL LTD": {
+      "FIELD2": "AWHCL",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "AXIS BANK LIMITED": {
+      "FIELD2": "AXISBANK",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "BAJAJ AUTO LIMITED": {
+      "FIELD2": "BAJAJ-AUTO",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "BAJAJ CONSUMER CARE LTD": {
+      "FIELD2": "BAJAJCON",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "BAJAJ ELECT.LTD": {
+      "FIELD2": "BAJAJELEC",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "BAJAJ FINSERV LTD.": {
+      "FIELD2": "BAJAJFINSV",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "BAJAJ HEALTHCARE LIMITED": {
+      "FIELD2": "BAJAJHCARE",
+      "FIELD3": 45,
+      "FIELD4": 45
+   },
+   "BAJAJ HOLDINGS & INVS LTD": {
+      "FIELD2": "BAJAJHLDNG",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "BAJAJ FINANCE LIMITED": {
+      "FIELD2": "BAJFINANCE",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "BALAJI AMINES LIMITED": {
+      "FIELD2": "BALAMINES",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "BALKRISHNA IND. LTD": {
+      "FIELD2": "BALKRISIND",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "BALMER LAWRIE & CO LTD": {
+      "FIELD2": "BALMLAWRIE",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "BALRAMPUR CHINI MILLS LTD": {
+      "FIELD2": "BALRAMCHIN",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "BANCO PRODUCTS (I) LTD": {
+      "FIELD2": "BANCOINDIA",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "BANDHAN BANK LIMITED": {
+      "FIELD2": "BANDHANBNK",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "BANK OF BARODA": {
+      "FIELD2": "BANKBARODA",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "NIP IND ETF BANK BEES": {
+      "FIELD2": "BANKBEES",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "BANK OF INDIA": {
+      "FIELD2": "BANKINDIA",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "BARBEQUE NATION HOSP. LTD": {
+      "FIELD2": "BARBEQUE",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "BASF INDIA LTD": {
+      "FIELD2": "BASF",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "BATA INDIA LTD": {
+      "FIELD2": "BATAINDIA",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "BAYER CROPSCIENCE LTD": {
+      "FIELD2": "BAYERCROP",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "BHARAT BIJLEE LTD": {
+      "FIELD2": "BBL",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "BOMBAY BURMAH TRADING COR": {
+      "FIELD2": "BBTC",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "BHARAT DYNAMICS LIMITED": {
+      "FIELD2": "BDL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "MRS BECTORS FOOD SPE LTD": {
+      "FIELD2": "BECTORFOOD",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "BHARAT ELECTRONICS LTD": {
+      "FIELD2": "BEL",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "BEML LIMITED": {
+      "FIELD2": "BEML",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "BHANSALI ENG. POLYMERS LT": {
+      "FIELD2": "BEPL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "BERGER PAINTS (I) LTD": {
+      "FIELD2": "BERGEPAINT",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "BHARAT FORGE LTD": {
+      "FIELD2": "BHARATFORG",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "BHARTI AIRTEL LIMITED": {
+      "FIELD2": "BHARTIARTL",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "BHEL": {
+      "FIELD2": "BHEL",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "BIOCON LIMITED.": {
+      "FIELD2": "BIOCON",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "BIRLA CORPORATION LTD": {
+      "FIELD2": "BIRLACORPN",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "BLISS GVS PHARMA LTD": {
+      "FIELD2": "BLISSGVS",
+      "FIELD3": 45,
+      "FIELD4": 45
+   },
+   "BLUE DART EXPRESS LTD": {
+      "FIELD2": "BLUEDART",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "BLUE STAR LIMITED": {
+      "FIELD2": "BLUESTARCO",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "BODAL CHEMICALS LTD": {
+      "FIELD2": "BODALCHEM",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "BOMBAY DYEING & MFG. CO L": {
+      "FIELD2": "BOMDYEING",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "BOROSIL RENEWABLES LTD": {
+      "FIELD2": "BORORENEW",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "BOSCH LIMITED": {
+      "FIELD2": "BOSCHLTD",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "BHARAT PETROLEUM CORP  LT": {
+      "FIELD2": "BPCL",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "BRIGADE ENTER. LTD": {
+      "FIELD2": "BRIGADE",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "BRITANNIA INDUSTRIES LTD": {
+      "FIELD2": "BRITANNIA",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "BIRLASOFT LIMITED": {
+      "FIELD2": "BSOFT",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "CAMLIN FINE SCIENCES LTD": {
+      "FIELD2": "CAMLINFINE",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "CAMPUS ACTIVEWEAR LIMITED": {
+      "FIELD2": "CAMPUS",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "COMPUTER AGE MNGT SER LTD": {
+      "FIELD2": "CAMS",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "CANARA BANK": {
+      "FIELD2": "CANBK",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "CAN FIN HOMES LTD": {
+      "FIELD2": "CANFINHOME",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "CAPACITE INFRAPROJECT LTD": {
+      "FIELD2": "CAPACITE",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "CAPLIN POINT LAB LTD.": {
+      "FIELD2": "CAPLIPOINT",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "CARBORUNDUM UNIVERSAL LTD": {
+      "FIELD2": "CARBORUNIV",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "CARE RATINGS LIMITED": {
+      "FIELD2": "CARERATING",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "CARTRADE TECH LIMITED": {
+      "FIELD2": "CARTRADE",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "CASTROL INDIA LIMITED": {
+      "FIELD2": "CASTROLIND",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "CCL PRODUCTS (I) LTD": {
+      "FIELD2": "CCL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "CEAT LIMITED": {
+      "FIELD2": "CEATLTD",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "CENTURY ENKA LTD": {
+      "FIELD2": "CENTENKA",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "CENTRAL BANK OF INDIA": {
+      "FIELD2": "CENTRALBK",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "CENTURY PLYBOARDS (I) LTD": {
+      "FIELD2": "CENTURYPLY",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "CENTURY TEXTILES LTD": {
+      "FIELD2": "CENTURYTEX",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "CERA SANITARYWARE LTD": {
+      "FIELD2": "CERA",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "CESC LTD": {
+      "FIELD2": "CESC",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "CAPRI GLOBAL CAPITAL LTD": {
+      "FIELD2": "CGCL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "CHALET HOTELS LIMITED": {
+      "FIELD2": "CHALET",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "CHAMBAL FERTILIZERS LTD": {
+      "FIELD2": "CHAMBLFERT",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "CHEMCON SPECIAL CHEM LTD": {
+      "FIELD2": "CHEMCON",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "CHEMPLAST SANMAR LIMITED": {
+      "FIELD2": "CHEMPLASTS",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "CHENNAI PETROLEUM CORP LT": {
+      "FIELD2": "CHENNPETRO",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "CHOLAMANDALAM IN & FIN CO": {
+      "FIELD2": "CHOLAFIN",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "CHOLAMANDALAM FIN HOL LTD": {
+      "FIELD2": "CHOLAHLDNG",
+      "FIELD3": 40,
+      "FIELD4": 40
+   },
+   "CIE AUTOMOTIVE INDIA LTD": {
+      "FIELD2": "CIEINDIA",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "CIGNITI TECHNOLOGIES LTD": {
+      "FIELD2": "CIGNITITEC",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "CIPLA LTD": {
+      "FIELD2": "CIPLA",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "CMS INFO SYSTEMS LIMITED": {
+      "FIELD2": "CMSINFO",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "COAL INDIA LTD": {
+      "FIELD2": "COALINDIA",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "COCHIN SHIPYARD LIMITED": {
+      "FIELD2": "COCHINSHIP",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "COFORGE LIMITED": {
+      "FIELD2": "COFORGE",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "COLGATE PALMOLIVE LTD.": {
+      "FIELD2": "COLPAL",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "CONTAINER CORP OF IND LTD": {
+      "FIELD2": "CONCOR",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "COROMANDEL INTERNTL. LTD": {
+      "FIELD2": "COROMANDEL",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "CPSE ETF": {
+      "FIELD2": "CPSEETF",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "CRAFTSMAN AUTOMATION LTD": {
+      "FIELD2": "CRAFTSMAN",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "CREDITACCESS GRAMEEN LTD": {
+      "FIELD2": "CREDITACC",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "CRISIL LTD": {
+      "FIELD2": "CRISIL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "CROMPT GREA CON ELEC LTD": {
+      "FIELD2": "CROMPTON",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "CSB BANK LIMITED": {
+      "FIELD2": "CSBBANK",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "CITY UNION BANK LTD": {
+      "FIELD2": "CUB",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "CUMMINS INDIA LTD": {
+      "FIELD2": "CUMMINSIND",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "CYIENT LIMITED": {
+      "FIELD2": "CYIENT",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "LT FOODS LIMITED": {
+      "FIELD2": "DAAWAT",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "DABUR INDIA LTD": {
+      "FIELD2": "DABUR",
+      "FIELD3": 80,
+      "FIELD4": 80
+   },
+   "DALMIA BHARAT LIMITED": {
+      "FIELD2": "DALBHARAT",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "DATA PATTERNS INDIA LTD": {
+      "FIELD2": "DATAPATTNS",
+      "FIELD3": 45,
+      "FIELD4": 45
+   },
+   "D.B.CORP LTD": {
+      "FIELD2": "DBCORP",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "DILIP BUILDCON LIMITED": {
+      "FIELD2": "DBL",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "DCB BANK LIMITED": {
+      "FIELD2": "DCBBANK",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "DCM SHRIRAM LIMITED": {
+      "FIELD2": "DCMSHRIRAM",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "DCM SHRIRAM IND LTD": {
+      "FIELD2": "DCMSRIND",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "DEEPAK FERTILIZERS & PETR": {
+      "FIELD2": "DEEPAKFERT",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "DEEPAK NITRITE LTD": {
+      "FIELD2": "DEEPAKNTR",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "DEEP INDUSTRIES LIMITED": {
+      "FIELD2": "DEEPINDS",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "DELTA CORP LIMITED": {
+      "FIELD2": "DELTACORP",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "DEN NETWORKS LTD": {
+      "FIELD2": "DEN",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "DEVYANI INTERNATIONAL LTD": {
+      "FIELD2": "DEVYANI",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "DHANUKA AGRITECH LTD": {
+      "FIELD2": "DHANUKA",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "DIVI S LABORATORIES LTD": {
+      "FIELD2": "DIVISLAB",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "DIXON TECHNO (INDIA) LTD": {
+      "FIELD2": "DIXON",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "DLF LIMITED": {
+      "FIELD2": "DLF",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "D-LINK INDIA LTD": {
+      "FIELD2": "DLINKINDIA",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "AVENUE SUPERMARTS LIMITED": {
+      "FIELD2": "DMART",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "DOLAT ALGOTECH LIMITED": {
+      "FIELD2": "DOLATALGO",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "DREDGING CORP OF INDIA": {
+      "FIELD2": "DREDGECORP",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "DR. REDDY S LABORATORIES": {
+      "FIELD2": "DRREDDY",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "EASY TRIP PLANNERS LTD": {
+      "FIELD2": "EASEMYTRIP",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "ECLERX SERVICES LTD": {
+      "FIELD2": "ECLERX",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "EICHER MOTORS LTD": {
+      "FIELD2": "EICHERMOT",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "EID PARRY INDIA LTD": {
+      "FIELD2": "EIDPARRY",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "EIH LIMITED": {
+      "FIELD2": "EIHOTEL",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "ELECON ENG. CO. LTD": {
+      "FIELD2": "ELECON",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "ELECTROSTEEL CASTINGS LTD": {
+      "FIELD2": "ELECTCAST",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "EMAMI LIMITED": {
+      "FIELD2": "EMAMILTD",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ENDURANCE TECHNO. LTD.": {
+      "FIELD2": "ENDURANCE",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ENGINEERS INDIA LTD": {
+      "FIELD2": "ENGINERSIN",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ENTERTAIN NET. IND. LTD.": {
+      "FIELD2": "ENIL",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "EPL LIMITED": {
+      "FIELD2": "EPL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "EQUITAS SMALL FIN BNK LTD": {
+      "FIELD2": "EQUITASBNK",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ERIS LIFESCIENCES LIMITED": {
+      "FIELD2": "ERIS",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "ESAB INDIA LTD": {
+      "FIELD2": "ESABINDIA",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "ESCORTS KUBOTA LIMITED": {
+      "FIELD2": "ESCORTS",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "ESTER INDUSTRIES LTD": {
+      "FIELD2": "ESTER",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "EVEREADY INDS. IND.  LTD.": {
+      "FIELD2": "EVEREADY",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "EVEREST INDUSTRIES LTD": {
+      "FIELD2": "EVERESTIND",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "EXCEL INDUSTRIES LTD": {
+      "FIELD2": "EXCELINDUS",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "EXIDE INDUSTRIES LTD": {
+      "FIELD2": "EXIDEIND",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "EXPLEO SOLUTIONS LIMITED": {
+      "FIELD2": "EXPLEOSOL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "EXXARO TILES LIMITED": {
+      "FIELD2": "EXXARO",
+      "FIELD3": 45,
+      "FIELD4": 45
+   },
+   "FACT LTD": {
+      "FIELD2": "FACT",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "FDC LIMITED": {
+      "FIELD2": "FDC",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "FEDERAL BANK LTD": {
+      "FIELD2": "FEDERALBNK",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "FIEM INDUSTRIES LIMITED": {
+      "FIELD2": "FIEMIND",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "FILATEX INDIA LTD": {
+      "FIELD2": "FILATEX",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "FINOLEX CABLES LTD": {
+      "FIELD2": "FINCABLES",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "FINE ORGANIC IND. LTD.": {
+      "FIELD2": "FINEORG",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "FINO PAYMENTS BANK LTD": {
+      "FIELD2": "FINOPB",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "FINOLEX INDUSTRIES LTD": {
+      "FIELD2": "FINPIPE",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "GUJARAT FLUOROCHEM LTD": {
+      "FIELD2": "FLUOROCHEM",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "FEDERAL-MOGUL GOETZE (IND": {
+      "FIELD2": "FMGOETZE",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "FORCE MOTORS LIMITED": {
+      "FIELD2": "FORCEMOT",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "FORTIS HEALTHCARE LTD": {
+      "FIELD2": "FORTIS",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "FIRSTSOURCE SOLU. LTD.": {
+      "FIELD2": "FSL",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "GABRIEL INDIA LTD": {
+      "FIELD2": "GABRIEL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "GAIL (INDIA) LTD": {
+      "FIELD2": "GAIL",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "GALAXY SURFACTANTS LTD": {
+      "FIELD2": "GALAXYSURF",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "GANESHA ECOSPHERE LIMITED": {
+      "FIELD2": "GANECOS",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "GANESH BENZOPLAST LIMITED": {
+      "FIELD2": "GANESHBE",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "GARWARE TECH FIBRES LTD": {
+      "FIELD2": "GARFIBRES",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "GATI LIMITED": {
+      "FIELD2": "GATI",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "GEOJIT FINANCIAL SER L": {
+      "FIELD2": "GEOJITFSL",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "GE POWER INDIA LIMITED": {
+      "FIELD2": "GEPIL",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "THE GE SHPG.LTD": {
+      "FIELD2": "GESHIP",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "GHCL LIMITED": {
+      "FIELD2": "GHCL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "GIC HOUSING FINANCE LTD": {
+      "FIELD2": "GICHSGFIN",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "GENERAL INS CORP OF INDIA": {
+      "FIELD2": "GICRE",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "GUJ IND POW CO. LTD": {
+      "FIELD2": "GIPCL",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "GLAND PHARMA LIMITED": {
+      "FIELD2": "GLAND",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "GLAXOSMITHKLINE PHARMA LT": {
+      "FIELD2": "GLAXO",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "GLENMARK PHARMACEUTICALS": {
+      "FIELD2": "GLENMARK",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "GLOBUS SPIRITS LTD": {
+      "FIELD2": "GLOBUSSPR",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "GUJARAT MINERAL DEV CORP": {
+      "FIELD2": "GMDCLTD",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "GMM PFAUDLER LIMITED": {
+      "FIELD2": "GMMPFAUDLR",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "GMR AIRPORTS INFRA LTD": {
+      "FIELD2": "GMRINFRA",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "GUJ NAR VAL FER & CHEM L": {
+      "FIELD2": "GNFC",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "GO FASHION INDIA LTD": {
+      "FIELD2": "GOCOLORS",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "GODFREY PHILLIPS INDIA LT": {
+      "FIELD2": "GODFRYPHLP",
+      "FIELD3": 45,
+      "FIELD4": 45
+   },
+   "GODREJ AGROVET LIMITED": {
+      "FIELD2": "GODREJAGRO",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "GODREJ CONSUMER PRODUCTS": {
+      "FIELD2": "GODREJCP",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "GODREJ INDUSTRIES LTD": {
+      "FIELD2": "GODREJIND",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "GODREJ PROPERTIES LTD": {
+      "FIELD2": "GODREJPROP",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "GOKALDAS EXPORTS LTD.": {
+      "FIELD2": "GOKEX",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "GOKUL REFOILS & SOLV LTD": {
+      "FIELD2": "GOKUL",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "GOODYEAR INDIA LIMITED": {
+      "FIELD2": "GOODYEAR",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "GUJARAT PIPAVAV PORT LTD": {
+      "FIELD2": "GPPL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "GRANULES INDIA LIMITED": {
+      "FIELD2": "GRANULES",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "GRAPHITE INDIA LTD": {
+      "FIELD2": "GRAPHITE",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "GRASIM INDUSTRIES LTD": {
+      "FIELD2": "GRASIM",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "GRAUER & WEIL IND LTD": {
+      "FIELD2": "GRAUWEIL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "GREAVES COTTON LTD.": {
+      "FIELD2": "GREAVESCOT",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "GREENPANEL INDUSTRIES LTD": {
+      "FIELD2": "GREENPANEL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "GREENPLY INDUSTRIES LTD": {
+      "FIELD2": "GREENPLY",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "GRINDWELL NORTON LIMITED": {
+      "FIELD2": "GRINDWELL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "GARDEN REACH SHIP&ENG LTD": {
+      "FIELD2": "GRSE",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "GUJ STATE FERT & CHEM LTD": {
+      "FIELD2": "GSFC",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "GUJARAT STATE PETRO LTD": {
+      "FIELD2": "GSPL",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "GUJARAT ALKALIES & CHEM": {
+      "FIELD2": "GUJALKALI",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "GUJARAT GAS LIMITED": {
+      "FIELD2": "GUJGASLTD",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "GULF OIL LUB. IND. LTD.": {
+      "FIELD2": "GULFOILLUB",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "HINDUSTAN AERONAUTICS LTD": {
+      "FIELD2": "HAL",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "HAPPIEST MINDS TECHNO LTD": {
+      "FIELD2": "HAPPSTMNDS",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "HATHWAY CABLE & DATACOM": {
+      "FIELD2": "HATHWAY",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "HATSUN AGRO PRODUCT LTD.": {
+      "FIELD2": "HATSUN",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "HAVELLS INDIA LIMITED": {
+      "FIELD2": "HAVELLS",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "HBL POWER SYSTEMS LTD.": {
+      "FIELD2": "HBLPOWER",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "HEALTHCARE GLOB. ENT. LTD": {
+      "FIELD2": "HCG",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "HCL TECHNOLOGIES LTD": {
+      "FIELD2": "HCLTECH",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "HDFC AMC LIMITED": {
+      "FIELD2": "HDFCAMC",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "HDFC BANK LTD": {
+      "FIELD2": "HDFCBANK",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "HDFC LIFE INS CO LTD": {
+      "FIELD2": "HDFCLIFE",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "HEG LTD": {
+      "FIELD2": "HEG",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "HEIDELBERGCEMENT (I) LTD": {
+      "FIELD2": "HEIDELBERG",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "HEMISPHERE PROP IND LTD": {
+      "FIELD2": "HEMIPROP",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "HERANBA INDUSTRIES LTD": {
+      "FIELD2": "HERANBA",
+      "FIELD3": 45,
+      "FIELD4": 45
+   },
+   "HERITAGE FOODS LTD": {
+      "FIELD2": "HERITGFOOD",
+      "FIELD3": 45,
+      "FIELD4": 45
+   },
+   "HERO MOTOCORP LIMITED": {
+      "FIELD2": "HEROMOTOCO",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "HFCL LIMITED": {
+      "FIELD2": "HFCL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "HIL LIMITED": {
+      "FIELD2": "HIL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "HIMATSINGKA SEIDE LTD": {
+      "FIELD2": "HIMATSEIDE",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "HINDALCO  INDUSTRIES  LTD": {
+      "FIELD2": "HINDALCO",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "HINDUSTAN COPPER LTD": {
+      "FIELD2": "HINDCOPPER",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "HINDUSTAN OIL EXPLORATION": {
+      "FIELD2": "HINDOILEXP",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "HINDUSTAN PETROLEUM CORP": {
+      "FIELD2": "HINDPETRO",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "HINDUSTAN UNILEVER LTD.": {
+      "FIELD2": "HINDUNILVR",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "HOME FIRST FIN CO IND LTD": {
+      "FIELD2": "HOMEFIRST",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "HONEYWELL AUTOMATION IND": {
+      "FIELD2": "HONAUT",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "HIMADRI SPECIALITY CHEM L": {
+      "FIELD2": "HSCL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "HSG & URBAN DEV CORPN LTD": {
+      "FIELD2": "HUDCO",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "HUHTAMAKI INDIA LIMITED": {
+      "FIELD2": "HUHTAMAKI",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "INDIABULLS REAL EST. LTD": {
+      "FIELD2": "IBREALEST",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "INDIABULLS HSG FIN LTD": {
+      "FIELD2": "IBULHSGFIN",
+      "FIELD3": 35,
+      "FIELD4": 35
+   },
+   "ICICI BANK LTD.": {
+      "FIELD2": "ICICIBANK",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "ICICI LOMBARD GIC LIMITED": {
+      "FIELD2": "ICICIGI",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "ICICI PRU LIFE INS CO LTD": {
+      "FIELD2": "ICICIPRULI",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "INDO COUNT INDUSTRIES LTD": {
+      "FIELD2": "ICIL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "IDBI BANK LIMITED": {
+      "FIELD2": "IDBI",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "IDFC LIMITED": {
+      "FIELD2": "IDFC",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "IDFC FIRST BANK LIMITED": {
+      "FIELD2": "IDFCFIRSTB",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "INDIAN ENERGY EXC LTD": {
+      "FIELD2": "IEX",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "IFB INDUSTRIES LTD": {
+      "FIELD2": "IFBIND",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "INDRAPRASTHA GAS LTD": {
+      "FIELD2": "IGL",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "I G PETROCHEMICALS LTD": {
+      "FIELD2": "IGPL",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "INDIAN METALS & FERRO": {
+      "FIELD2": "IMFA",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "THE INDIAN HOTELS CO. LTD": {
+      "FIELD2": "INDHOTEL",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "THE INDIA CEMENTS LIMITED": {
+      "FIELD2": "INDIACEM",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "INDIA GLYCOLS LTD": {
+      "FIELD2": "INDIAGLYCO",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "INDIAMART INTERMESH LTD": {
+      "FIELD2": "INDIAMART",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "INDIAN BANK": {
+      "FIELD2": "INDIANB",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "INTERGLOBE AVIATION LTD": {
+      "FIELD2": "INDIGO",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "INDIGO PAINTS LIMITED": {
+      "FIELD2": "INDIGOPNTS",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "INDOCO REMEDIES LTD.": {
+      "FIELD2": "INDOCO",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "INDUSIND BANK LIMITED": {
+      "FIELD2": "INDUSINDBK",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "INDUS TOWERS LIMITED": {
+      "FIELD2": "INDUSTOWER",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "INFIBEAM AVENUES LIMITED": {
+      "FIELD2": "INFIBEAM",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "INFOSYS LIMITED": {
+      "FIELD2": "INFY",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "INGERSOLL-RAND INDIA LTD": {
+      "FIELD2": "INGERRAND",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "INSECTICIDES (I) LTD": {
+      "FIELD2": "INSECTICID",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "INTELLECT DESIGN ARENA": {
+      "FIELD2": "INTELLECT",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "INDIAN OVERSEAS BANK": {
+      "FIELD2": "IOB",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "INDIAN OIL CORP LTD": {
+      "FIELD2": "IOC",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "IOL CHEM AND PHARMA LTD": {
+      "FIELD2": "IOLCP",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "IPCA LABORATORIES LTD": {
+      "FIELD2": "IPCALAB",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "INDIA PESTICIDES LIMITED": {
+      "FIELD2": "IPL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "IRB INFRA DEV LTD.": {
+      "FIELD2": "IRB",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "IRCON INTERNATIONAL LTD": {
+      "FIELD2": "IRCON",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "INDIAN RAIL TOUR CORP LTD": {
+      "FIELD2": "IRCTC",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "INDIAN RAILWAY FIN CORP L": {
+      "FIELD2": "IRFC",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ICICI SECURITIES LIMITED": {
+      "FIELD2": "ISEC",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "ISGEC HEAVY ENG LTD": {
+      "FIELD2": "ISGEC",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "ITC LTD": {
+      "FIELD2": "ITC",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "ITD CEMENTATION INDIA LTD": {
+      "FIELD2": "ITDCEM",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "ITI LTD": {
+      "FIELD2": "ITI",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "J & K BANK LTD.": {
+      "FIELD2": "J&KBANK",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "JAI CORP LIMITED": {
+      "FIELD2": "JAICORPLTD",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "JAMNA AUTO IND LTD": {
+      "FIELD2": "JAMNAAUTO",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "JAYANT AGRO ORGANICS LTD": {
+      "FIELD2": "JAYAGROGN",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "J B CHEMICALS AND PHARMA": {
+      "FIELD2": "JBCHEPHARM",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "JBM AUTO LIMITED": {
+      "FIELD2": "JBMA",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "JINDAL POLY FILMS LIMITED": {
+      "FIELD2": "JINDALPOLY",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "JINDAL SAW LIMITED": {
+      "FIELD2": "JINDALSAW",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "JINDAL STEEL & POWER LTD": {
+      "FIELD2": "JINDALSTEL",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "JK CEMENT LIMITED": {
+      "FIELD2": "JKCEMENT",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "JKUMAR INFR.LTD.": {
+      "FIELD2": "JKIL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "JK LAKSHMI CEMENT LTD": {
+      "FIELD2": "JKLAKSHMI",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "JK PAPER LIMITED": {
+      "FIELD2": "JKPAPER",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "JK TYRE & INDUSTRIES LTD": {
+      "FIELD2": "JKTYRE",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "JM FINANCIAL LIMITED": {
+      "FIELD2": "JMFINANCIL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "JSW ENERGY LIMITED": {
+      "FIELD2": "JSWENERGY",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "JSW STEEL LIMITED": {
+      "FIELD2": "JSWSTEEL",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "JTL INDUSTRIES LIMITED": {
+      "FIELD2": "JTLIND",
+      "FIELD3": 45,
+      "FIELD4": 45
+   },
+   "JUBILANT FOODWORKS LTD": {
+      "FIELD2": "JUBLFOOD",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "JUBILANT INGREVIA LIMITED": {
+      "FIELD2": "JUBLINGREA",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "JUBILANT PHARMOVA LTD": {
+      "FIELD2": "JUBLPHARMA",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "NIP IND ETF JUNIOR BEES": {
+      "FIELD2": "JUNIORBEES",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "JUSTDIAL LTD.": {
+      "FIELD2": "JUSTDIAL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "JYOTHY LABS LIMITED": {
+      "FIELD2": "JYOTHYLAB",
+      "FIELD3": 45,
+      "FIELD4": 45
+   },
+   "KAJARIA CERAMICS LTD": {
+      "FIELD2": "KAJARIACER",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "KALYAN JEWELLERS IND LTD": {
+      "FIELD2": "KALYANKJIL",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "KANSAI NEROLAC PAINTS LTD": {
+      "FIELD2": "KANSAINER",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "KARUR VYSYA BANK LTD": {
+      "FIELD2": "KARURVYSYA",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "KCP SUGAR IND CORP LTD.": {
+      "FIELD2": "KCPSUGIND",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "KEC INTL. LIMITED": {
+      "FIELD2": "KEC",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "KEI INDUSTRIES LTD.": {
+      "FIELD2": "KEI",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "KESORAM INDUSTRIES LTD": {
+      "FIELD2": "KESORAMIND",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "KRISHNA INST OF MED SCI L": {
+      "FIELD2": "KIMS",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "KIOCL LIMITED": {
+      "FIELD2": "KIOCL",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "KIRI INDUSTRIES LIMITED": {
+      "FIELD2": "KIRIINDUS",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "KIRLOSKAR FERROUS IND LTD": {
+      "FIELD2": "KIRLFER",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "KIRLOSKAR OIL ENG LTD": {
+      "FIELD2": "KIRLOSENG",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "KNR CONSTRU LTD.": {
+      "FIELD2": "KNRCON",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "KOLTE PATIL DEV. LTD.": {
+      "FIELD2": "KOLTEPATIL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "KOPRAN LTD": {
+      "FIELD2": "KOPRAN",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "KOTAK MAHINDRA BANK LTD": {
+      "FIELD2": "KOTAKBANK",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "KALPATARU PROJECT INT LTD": {
+      "FIELD2": "KPIL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "KPIT TECHNOLOGIES LIMITED": {
+      "FIELD2": "KPITTECH",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "KPR MILL LTD.": {
+      "FIELD2": "KPRMILL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "KRBL LIMITED": {
+      "FIELD2": "KRBL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "KRSNAA DIAGNOSTICS LTD": {
+      "FIELD2": "KRSNAA",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "KSB LIMITED": {
+      "FIELD2": "KSB",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "KAVERI SEED CO. LTD.": {
+      "FIELD2": "KSCL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "KARNATAKA BANK LIMITED": {
+      "FIELD2": "KTKBANK",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "L&T FINANCE HOLDINGS LTD": {
+      "FIELD2": "L&TFH",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "DR. LAL PATH LABS LTD.": {
+      "FIELD2": "LALPATHLAB",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "LA OPALA RG LIMITED": {
+      "FIELD2": "LAOPALA",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "LATENT VIEW ANALYTICS LTD": {
+      "FIELD2": "LATENTVIEW",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "LAURUS LABS LIMITED": {
+      "FIELD2": "LAURUSLABS",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "LEMON TREE HOTELS LTD": {
+      "FIELD2": "LEMONTREE",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "LG BALAKRISHNAN & BROS": {
+      "FIELD2": "LGBBROSLTD",
+      "FIELD3": 45,
+      "FIELD4": 45
+   },
+   "LIC HOUSING FINANCE LTD": {
+      "FIELD2": "LICHSGFIN",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "LIFE INSURA CORP OF INDIA": {
+      "FIELD2": "LICI",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "LINCOLN PHARMA LTD": {
+      "FIELD2": "LINCOLN",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "LINDE INDIA LIMITED": {
+      "FIELD2": "LINDEINDIA",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "LARSEN & TOUBRO LTD.": {
+      "FIELD2": "LT",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "LTIMINDTREE LIMITED": {
+      "FIELD2": "LTIM",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "L&T TECHNOLOGY SER. LTD.": {
+      "FIELD2": "LTTS",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "LUMAX AUTO TECH LTD": {
+      "FIELD2": "LUMAXTECH",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "LUPIN LIMITED": {
+      "FIELD2": "LUPIN",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "LUX INDUSTRIES LIMITED": {
+      "FIELD2": "LUXIND",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "LAXMI ORGANIC INDUS LTD": {
+      "FIELD2": "LXCHEM",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "MAHINDRA & MAHINDRA LTD": {
+      "FIELD2": "M&M",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "M&M FIN. SERVICES LTD": {
+      "FIELD2": "M&MFIN",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "MAGADH SUGAR & ENERGY LTD": {
+      "FIELD2": "MAGADSUGAR",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "BANK OF MAHARASHTRA": {
+      "FIELD2": "MAHABANK",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "MAHINDRA LIFESPACE DEVLTD": {
+      "FIELD2": "MAHLIFE",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "MAHINDRA LOGISTIC LIMITED": {
+      "FIELD2": "MAHLOG",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "MAHARASHTRA SEAMLESS LTD": {
+      "FIELD2": "MAHSEAMLES",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "MAITHAN ALLOYS LTD": {
+      "FIELD2": "MAITHANALL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "MANAPPURAM FINANCE LTD": {
+      "FIELD2": "MANAPPURAM",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "MANGALAM CEMENT LTD": {
+      "FIELD2": "MANGLMCEM",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "MAN INDUSTRIES (I) LTD.": {
+      "FIELD2": "MANINDS",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "C.E. INFO SYSTEMS LIMITED": {
+      "FIELD2": "MAPMYINDIA",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "MARICO LIMITED": {
+      "FIELD2": "MARICO",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "MARKSANS PHARMA LIMITED": {
+      "FIELD2": "MARKSANS",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "MARUTI SUZUKI INDIA LTD.": {
+      "FIELD2": "MARUTI",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "MAS FINANCIAL SERV LTD": {
+      "FIELD2": "MASFIN",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "MASTEK LTD": {
+      "FIELD2": "MASTEK",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "MATRIMONY.COM LIMITED": {
+      "FIELD2": "MATRIMONY",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "MAX HEALTHCARE INS LTD": {
+      "FIELD2": "MAXHEALTH",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "MAYUR UNIQUOTERS LTD": {
+      "FIELD2": "MAYURUNIQ",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "MAZAGON DOCK SHIPBUIL LTD": {
+      "FIELD2": "MAZDOCK",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "UNITED SPIRITS LIMITED": {
+      "FIELD2": "MCDOWELL-N",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "MULTI COMMODITY EXCHANGE": {
+      "FIELD2": "MCX",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "MEDPLUS HEALTH SERV LTD": {
+      "FIELD2": "MEDPLUS",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "METRO BRANDS LIMITED": {
+      "FIELD2": "METROBRAND",
+      "FIELD3": 45,
+      "FIELD4": 45
+   },
+   "METROPOLIS HEALTHCARE LTD": {
+      "FIELD2": "METROPOLIS",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "MEGHMANI FINECHEM LIMITED": {
+      "FIELD2": "MFL",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "MAX FINANCIAL SERV LTD": {
+      "FIELD2": "MFSL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "MAHANAGAR GAS LTD.": {
+      "FIELD2": "MGL",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "MAHINDRA HOLIDAYS LTD": {
+      "FIELD2": "MHRIL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "MISHRA DHATU NIGAM LTD": {
+      "FIELD2": "MIDHANI",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "MINDA CORPORATION LTD": {
+      "FIELD2": "MINDACORP",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "MMTC LIMITED": {
+      "FIELD2": "MMTC",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "MOIL LIMITED": {
+      "FIELD2": "MOIL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "MEGHMANI ORGANICS LIMITED": {
+      "FIELD2": "MOL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "SAMVRDHNA MTHRSN INTL LTD": {
+      "FIELD2": "MOTHERSON",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "MOTILAL OSWAL FIN LTD": {
+      "FIELD2": "MOTILALOFS",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "MPHASIS LIMITED": {
+      "FIELD2": "MPHASIS",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "MPS LIMITED": {
+      "FIELD2": "MPSLTD",
+      "FIELD3": 45,
+      "FIELD4": 45
+   },
+   "MRF LTD": {
+      "FIELD2": "MRF",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "MRPL": {
+      "FIELD2": "MRPL",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "MSTC LIMITED": {
+      "FIELD2": "MSTCLTD",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "MTAR TECHNOLOGIES LIMITED": {
+      "FIELD2": "MTARTECH",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "MUTHOOT FINANCE LIMITED": {
+      "FIELD2": "MUTHOOTFIN",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "NAHAR INDS ENT LTD": {
+      "FIELD2": "NAHARINDUS",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "NIPPON L I A M LTD": {
+      "FIELD2": "NAM-INDIA",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "NATCO PHARMA LTD.": {
+      "FIELD2": "NATCOPHARM",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "NATIONAL ALUMINIUM CO LTD": {
+      "FIELD2": "NATIONALUM",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "INFO EDGE (I) LTD": {
+      "FIELD2": "NAUKRI",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "NAVA LIMITED": {
+      "FIELD2": "NAVA",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "NAVIN FLUORINE INT. LTD": {
+      "FIELD2": "NAVINFLUOR",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "NAVNEET EDUCATION LTD": {
+      "FIELD2": "NAVNETEDUL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "NBCC (INDIA) LIMITED": {
+      "FIELD2": "NBCC",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "NCC LIMITED": {
+      "FIELD2": "NCC",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "NCL INDUSTRIES LIMITED": {
+      "FIELD2": "NCLIND",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "NEOGEN CHEMICALS LIMITED": {
+      "FIELD2": "NEOGEN",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "NESCO LTD.": {
+      "FIELD2": "NESCO",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "NESTLE INDIA LIMITED": {
+      "FIELD2": "NESTLEIND",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "NEULAND LAB LTD.": {
+      "FIELD2": "NEULANDLAB",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "NATIONAL FERT. LTD": {
+      "FIELD2": "NFL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "NARAYANA HRUDAYALAYA LTD.": {
+      "FIELD2": "NH",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "NHPC LTD": {
+      "FIELD2": "NHPC",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "THE NEW INDIA ASSU CO LTD": {
+      "FIELD2": "NIACL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "NIP IND ETF NIFTY BEES": {
+      "FIELD2": "NIFTYBEES",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "NIIT LIMITED": {
+      "FIELD2": "NIITLTD",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "NILKAMAL LIMITED": {
+      "FIELD2": "NILKAMAL",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "NLC INDIA LIMITED": {
+      "FIELD2": "NLCINDIA",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "NMDC LTD.": {
+      "FIELD2": "NMDC",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "NOCIL LIMITED": {
+      "FIELD2": "NOCIL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "NRB BEARING LIMITED": {
+      "FIELD2": "NRBBEARING",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "NTPC LTD": {
+      "FIELD2": "NTPC",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "NUCLEUS SOFTWARE EXPORTS": {
+      "FIELD2": "NUCLEUS",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "NUVOCO VISTAS CORP LTD": {
+      "FIELD2": "NUVOCO",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "FSN E COMMERCE VENTURES": {
+      "FIELD2": "NYKAA",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ORIENTAL AROMATICS LTD": {
+      "FIELD2": "OAL",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "OBEROI REALTY LIMITED": {
+      "FIELD2": "OBEROIRLTY",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "ORACLE FIN SERV SOFT LTD.": {
+      "FIELD2": "OFSS",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "OIL INDIA LTD": {
+      "FIELD2": "OIL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "OLECTRA GREENTECH LIMITED": {
+      "FIELD2": "OLECTRA",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "OMAXE LIMITED": {
+      "FIELD2": "OMAXE",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "OIL AND NATURAL GAS CORP.": {
+      "FIELD2": "ONGC",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "ORIENT CEMENT LTD.": {
+      "FIELD2": "ORIENTCEM",
+      "FIELD3": 45,
+      "FIELD4": 45
+   },
+   "ORIENT ELECTRIC LIMITED": {
+      "FIELD2": "ORIENTELEC",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ORIENT HOTELS LTD": {
+      "FIELD2": "ORIENTHOT",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "ORIENT PAPER AND INDS LTD": {
+      "FIELD2": "ORIENTPPR",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "PAGE INDUSTRIES LTD": {
+      "FIELD2": "PAGEIND",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "PANAMA PETROCHEM LTD": {
+      "FIELD2": "PANAMAPET",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "PARAG MILK FOODS LTD.": {
+      "FIELD2": "PARAGMILK",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "PARAS DEF AND SPCE TECH L": {
+      "FIELD2": "PARAS",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ONE 97 COMMUNICATIONS LTD": {
+      "FIELD2": "PAYTM",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "PCBL LIMITED": {
+      "FIELD2": "PCBL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "PIRAMAL ENTERPRISES LTD": {
+      "FIELD2": "PEL",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "PERSISTENT SYSTEMS LTD": {
+      "FIELD2": "PERSISTENT",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "PETRONET LNG LIMITED": {
+      "FIELD2": "PETRONET",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "POWER FIN CORP LTD.": {
+      "FIELD2": "PFC",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "PFIZER LTD": {
+      "FIELD2": "PFIZER",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "PROCTER & GAMBLE HEALTH L": {
+      "FIELD2": "PGHL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "THE PHOENIX MILLS LTD": {
+      "FIELD2": "PHOENIXLTD",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "PIDILITE INDUSTRIES LTD": {
+      "FIELD2": "PIDILITIND",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "PI INDUSTRIES LTD": {
+      "FIELD2": "PIIND",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "PUNJAB NATIONAL BANK": {
+      "FIELD2": "PNB",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "PNB HOUSING FIN LTD.": {
+      "FIELD2": "PNBHOUSING",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "PNC INFRATECH LTD.": {
+      "FIELD2": "PNCINFRA",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "PB FINTECH LIMITED": {
+      "FIELD2": "POLICYBZR",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "POLYCAB INDIA LIMITED": {
+      "FIELD2": "POLYCAB",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "POLY MEDICURE LIMITED": {
+      "FIELD2": "POLYMED",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "POLYPLEX CORPORATION LTD": {
+      "FIELD2": "POLYPLEX",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "POONAWALLA FINCORP LTD": {
+      "FIELD2": "POONAWALLA",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "POWER GRID CORP. LTD.": {
+      "FIELD2": "POWERGRID",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "HITACHI ENERGY INDIA LTD": {
+      "FIELD2": "POWERINDIA",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "POWER MECH PROJECTS LTD.": {
+      "FIELD2": "POWERMECH",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "PRAJ INDUSTRIES LTD": {
+      "FIELD2": "PRAJIND",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "PRESTIGE ESTATE LTD": {
+      "FIELD2": "PRESTIGE",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "PRICOL LIMITED": {
+      "FIELD2": "PRICOLLTD",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "PRINCE PIPES FITTINGS LTD": {
+      "FIELD2": "PRINCEPIPE",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "PRISM JOHNSON LIMITED": {
+      "FIELD2": "PRSMJOHNSN",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "PSP PROJECTS LIMITED": {
+      "FIELD2": "PSPPROJECT",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "NIP IND ETF PSU BANK BEES": {
+      "FIELD2": "PSUBNKBEES",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "PVR INOX LIMITED": {
+      "FIELD2": "PVRINOX",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "QUESS CORP LIMITED": {
+      "FIELD2": "QUESS",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "RADICO KHAITAN LTD": {
+      "FIELD2": "RADICO",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "RAILTEL CORP OF IND LTD": {
+      "FIELD2": "RAILTEL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "RAIN INDUSTRIES LIMITED": {
+      "FIELD2": "RAIN",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "RAJESH EXPORTS LTD": {
+      "FIELD2": "RAJESHEXPO",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "RALLIS INDIA LTD": {
+      "FIELD2": "RALLIS",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "THE RAMCO CEMENTS LIMITED": {
+      "FIELD2": "RAMCOCEM",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "RAMCO INDUSTRIES LIMITED": {
+      "FIELD2": "RAMCOIND",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "RAMCO SYSTEMS LTD.": {
+      "FIELD2": "RAMCOSYS",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "RANA SUGARS LTD.": {
+      "FIELD2": "RANASUG",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "RATEGAIN TRAVEL TECHN LTD": {
+      "FIELD2": "RATEGAIN",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "RATNAMANI MET & TUB LTD.": {
+      "FIELD2": "RATNAMANI",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "RAYMOND LTD": {
+      "FIELD2": "RAYMOND",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "RESTAURANT BRAND ASIA LTD": {
+      "FIELD2": "RBA",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "RBL BANK LIMITED": {
+      "FIELD2": "RBLBANK",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "RASHTRIYA CHEMICALS & FER": {
+      "FIELD2": "RCF",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "REC LIMITED": {
+      "FIELD2": "RECLTD",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "REDINGTON LIMITED": {
+      "FIELD2": "REDINGTON",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "RELAXO FOOT LTD.": {
+      "FIELD2": "RELAXO",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "RELIANCE INDUSTRIES LTD": {
+      "FIELD2": "RELIANCE",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "RELIGARE ENTER. LTD.": {
+      "FIELD2": "RELIGARE",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "REPCO HOME FINANCE LTD": {
+      "FIELD2": "REPCOHOME",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "RHI MAGNESITA INDIA LTD": {
+      "FIELD2": "RHIM",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "RICO AUTO INDUSTRIES LTD": {
+      "FIELD2": "RICOAUTO",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "RELIANCE INDUSTRIAL INFRA": {
+      "FIELD2": "RIIL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "RITES LIMITED": {
+      "FIELD2": "RITES",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "RAMKRISHNA FORGINGS LTD": {
+      "FIELD2": "RKFORGE",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "ROLEX RINGS LIMITED": {
+      "FIELD2": "ROLEXRINGS",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ROSSARI BIOTECH LIMITED": {
+      "FIELD2": "ROSSARI",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "ROUTE MOBILE LIMITED": {
+      "FIELD2": "ROUTE",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "RSWM LIMITED": {
+      "FIELD2": "RSWM",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "RAIL VIKAS NIGAM LIMITED": {
+      "FIELD2": "RVNL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SAFARI IND (INDIA) LTD": {
+      "FIELD2": "SAFARI",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "STEEL AUTHORITY OF INDIA": {
+      "FIELD2": "SAIL",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "SAKSOFT LIMITED": {
+      "FIELD2": "SAKSOFT",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "SALASAR TECHNO ENGG. LTD.": {
+      "FIELD2": "SALASAR",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SANGHVI MOVERS LTD": {
+      "FIELD2": "SANGHVIMOV",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "SANOFI INDIA LIMITED": {
+      "FIELD2": "SANOFI",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SANSERA ENGINEERING LTD": {
+      "FIELD2": "SANSERA",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SAPPHIRE FOODS INDIA LTD": {
+      "FIELD2": "SAPPHIRE",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "SASKEN TECHNOLOGIES LTD": {
+      "FIELD2": "SASKEN",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "SATIA INDUSTRIES LIMITED": {
+      "FIELD2": "SATIA",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SHIVALIK BIMETAL CON. LTD": {
+      "FIELD2": "SBCL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SBI CARDS & PAY SER LTD": {
+      "FIELD2": "SBICARD",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "SBI LIFE INSURANCE CO LTD": {
+      "FIELD2": "SBILIFE",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "STATE BANK OF INDIA": {
+      "FIELD2": "SBIN",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "SCHAEFFLER INDIA LIMITED": {
+      "FIELD2": "SCHAEFFLER",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "SCHNEIDER ELECTRIC INFRA": {
+      "FIELD2": "SCHNEIDER",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "SHIPPING CORP OF INDIA LT": {
+      "FIELD2": "SCI",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "SEAMEC LIMITED": {
+      "FIELD2": "SEAMECLTD",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "SEQUENT SCIENTIFIC LTD.": {
+      "FIELD2": "SEQUENT",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SESHASAYEE PAPER & BOARDS": {
+      "FIELD2": "SESHAPAPER",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "SHEELA FOAM LIMITED": {
+      "FIELD2": "SFL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SHALIM PAINTS LTD": {
+      "FIELD2": "SHALPAINTS",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "SHANKARA BLDG PRODUCT LTD": {
+      "FIELD2": "SHANKARA",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SHANTHI GEARS LTD": {
+      "FIELD2": "SHANTIGEAR",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SHARDA CROPCHEM LTD.": {
+      "FIELD2": "SHARDACROP",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SHARDA MOTOR INDS LTD": {
+      "FIELD2": "SHARDAMOTR",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "SHILPA MEDICARE LTD": {
+      "FIELD2": "SHILPAMED",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "S H KELKAR AND CO. LTD.": {
+      "FIELD2": "SHK",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "SHOPPERS STOP LIMITED": {
+      "FIELD2": "SHOPERSTOP",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "SHREE CEMENT LIMITED": {
+      "FIELD2": "SHREECEM",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "SHRE PUSH CHEM & FERT LTD": {
+      "FIELD2": "SHREEPUSHK",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "SHREYAS SHIPPING & LOGIST": {
+      "FIELD2": "SHREYAS",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "SHRIRAM FINANCE LIMITED": {
+      "FIELD2": "SHRIRAMFIN",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "SHRIRAM PROPERTIES LTD": {
+      "FIELD2": "SHRIRAMPPS",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SIEMENS LTD": {
+      "FIELD2": "SIEMENS",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "SIGACHI INDUSTRIES LTD": {
+      "FIELD2": "SIGACHI",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "SIS LIMITED": {
+      "FIELD2": "SIS",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SIYARAM SILK MILLS LTD": {
+      "FIELD2": "SIYSIL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SJS ENTERPRISES LIMITED": {
+      "FIELD2": "SJS",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SJVN LTD": {
+      "FIELD2": "SJVN",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SKF INDIA LTD": {
+      "FIELD2": "SKFINDIA",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "SMC GLOBAL SECURITIES LTD": {
+      "FIELD2": "SMCGLOBAL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SML ISUZU LIMITED": {
+      "FIELD2": "SMLISUZU",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "SOBHA LIMITED": {
+      "FIELD2": "SOBHA",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "SOLAR INDUSTRIES (I) LTD": {
+      "FIELD2": "SOLARINDS",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "SOMANY CERAMICS LIMITED": {
+      "FIELD2": "SOMANYCERA",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "SONA BLW PRECISION FRGS L": {
+      "FIELD2": "SONACOMS",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "SONATA SOFTWARE LTD": {
+      "FIELD2": "SONATSOFTW",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "SUN PHARMA ADV.RES.CO.LTD": {
+      "FIELD2": "SPARC",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SRF LTD": {
+      "FIELD2": "SRF",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "SREE RAYALSEEMA HHP LTD.": {
+      "FIELD2": "SRHHYPOLTD",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "STRIDES PHARMA SCI LTD": {
+      "FIELD2": "STAR",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "STAR HEALTH & AL INS CO L": {
+      "FIELD2": "STARHEALTH",
+      "FIELD3": 45,
+      "FIELD4": 45
+   },
+   "STERLITE TECHNOLOGIES LTD": {
+      "FIELD2": "STLTECH",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "STOVE KRAFT LIMITED": {
+      "FIELD2": "STOVEKRAFT",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "SUDARSHAN CHEMICAL INDS L": {
+      "FIELD2": "SUDARSCHEM",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "SUMITOMO CHEM INDIA LTD": {
+      "FIELD2": "SUMICHEM",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "SUNDARAM FINANCE LTD": {
+      "FIELD2": "SUNDARMFIN",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "SUNDRAM FASTENERS LTD": {
+      "FIELD2": "SUNDRMFAST",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SUNFLAG IRON AND STEEL CO": {
+      "FIELD2": "SUNFLAG",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SUN PHARMACEUTICAL IND L": {
+      "FIELD2": "SUNPHARMA",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "SUNTECK REALTY LIMITED": {
+      "FIELD2": "SUNTECK",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "SUN TV NETWORK LIMITED": {
+      "FIELD2": "SUNTV",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "SUPRAJIT ENGINEERING LTD": {
+      "FIELD2": "SUPRAJIT",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SUPREME INDUSTRIES LTD": {
+      "FIELD2": "SUPREMEIND",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "SUPRIYA LIFESCIENCE LTD": {
+      "FIELD2": "SUPRIYA",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "SURYA ROSHNI LTD": {
+      "FIELD2": "SURYAROSNI",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SUVEN PHARMACEUTICALS LTD": {
+      "FIELD2": "SUVENPHAR",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "SWAN ENERGY LIMITED": {
+      "FIELD2": "SWANENERGY",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SYMPHONY LIMITED": {
+      "FIELD2": "SYMPHONY",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "SYNGENE INTERNATIONAL LTD": {
+      "FIELD2": "SYNGENE",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "TAJ GVK HOTELS & RESORTS": {
+      "FIELD2": "TAJGVK",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "TANLA PLATFORMS LIMITED": {
+      "FIELD2": "TANLA",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "TARSONS PRODUCTS LIMITED": {
+      "FIELD2": "TARSONS",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "TATA CHEMICALS LTD": {
+      "FIELD2": "TATACHEM",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "TATA COFFEE LIMITED": {
+      "FIELD2": "TATACOFFEE",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "TATA COMMUNICATIONS LTD": {
+      "FIELD2": "TATACOMM",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "TATA CONSUMER PRODUCT LTD": {
+      "FIELD2": "TATACONSUM",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "TATA ELXSI LIMITED": {
+      "FIELD2": "TATAELXSI",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "TATA INVESTMENT CORP LTD": {
+      "FIELD2": "TATAINVEST",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "TATA METALIKS LTD": {
+      "FIELD2": "TATAMETALI",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "TATA MOTORS LIMITED": {
+      "FIELD2": "TATAMOTORS",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "TATA MOTORS DVR  A  ORD": {
+      "FIELD2": "TATAMTRDVR",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "TATA POWER CO LTD": {
+      "FIELD2": "TATAPOWER",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "TATA STEEL LIMITED": {
+      "FIELD2": "TATASTEEL",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "TATA STEEL LONG PRO LTD": {
+      "FIELD2": "TATASTLLP",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "TRANSPORT CORPN OF INDIA": {
+      "FIELD2": "TCI",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "TCI EXPRESS LIMITED": {
+      "FIELD2": "TCIEXP",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "TCNS CLOTHING CO. LIMITED": {
+      "FIELD2": "TCNSBRANDS",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "TATA CONSULTANCY SERV LT": {
+      "FIELD2": "TCS",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "TEAMLEASE SERVICES LTD.": {
+      "FIELD2": "TEAMLEASE",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "TECH MAHINDRA LIMITED": {
+      "FIELD2": "TECHM",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "TECHNO ELEC & ENG CO. LTD": {
+      "FIELD2": "TECHNOE",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "TEJAS NETWORKS LIMITED": {
+      "FIELD2": "TEJASNET",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "TEXMACO RAIL & ENG. LTD.": {
+      "FIELD2": "TEXRAIL",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "THERMAX LTD": {
+      "FIELD2": "THERMAX",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "THOMASCOOK-DEP SETT": {
+      "FIELD2": "THOMASCOOK",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "TECHNOCRAFT IND LTD": {
+      "FIELD2": "TIIL",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "TUBE INVEST OF INDIA LTD": {
+      "FIELD2": "TIINDIA",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "TIME TECHNOPLAST LTD.": {
+      "FIELD2": "TIMETECHNO",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "TIMKEN INDIA LTD.": {
+      "FIELD2": "TIMKEN",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "THE TINPLATE CO. (I) LTD": {
+      "FIELD2": "TINPLATE",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "THIRUMALAI CHEMICALS LTD": {
+      "FIELD2": "TIRUMALCHM",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "TITAGARH RAIL SYSTEMS LTD": {
+      "FIELD2": "TITAGARH",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "TITAN COMPANY LIMITED": {
+      "FIELD2": "TITAN",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "TAMILNADU NEWSPRT & PAPER": {
+      "FIELD2": "TNPL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "TORRENT PHARMACEUTICALS L": {
+      "FIELD2": "TORNTPHARM",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "TORRENT POWER LTD": {
+      "FIELD2": "TORNTPOWER",
+      "FIELD3": 65,
+      "FIELD4": 65
+   },
+   "TRENT LTD": {
+      "FIELD2": "TRENT",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "TRIVENI TURBINE LIMITED": {
+      "FIELD2": "TRITURBINE",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "TRIVENI ENGG. & INDS. LTD": {
+      "FIELD2": "TRIVENI",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "TTK PRESTIGE LTD": {
+      "FIELD2": "TTKPRESTIG",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "TV18 BROADCAST LIMITED": {
+      "FIELD2": "TV18BRDCST",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "TVS MOTOR COMPANY  LTD": {
+      "FIELD2": "TVSMOTOR",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "TV TODAY NETWORK LTD": {
+      "FIELD2": "TVTODAY",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "UNITED BREWERIES LTD": {
+      "FIELD2": "UBL",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "UCO BANK": {
+      "FIELD2": "UCOBANK",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "UFLEX LIMITED": {
+      "FIELD2": "UFLEX",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "UJJIVAN FIN. SERVC. LTD.": {
+      "FIELD2": "UJJIVAN",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "UJJIVAN SMALL FINANC BANK": {
+      "FIELD2": "UJJIVANSFB",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ULTRATECH CEMENT LIMITED": {
+      "FIELD2": "ULTRACEMCO",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "UNICHEM LABORATORIES LTD": {
+      "FIELD2": "UNICHEMLAB",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "UNITED DRILLING TOOLS LTD": {
+      "FIELD2": "UNIDT",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "UNION BANK OF INDIA": {
+      "FIELD2": "UNIONBANK",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "UNO MINDA LIMITED": {
+      "FIELD2": "UNOMINDA",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "UPL LIMITED": {
+      "FIELD2": "UPL",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "USHA MARTIN LTD.": {
+      "FIELD2": "USHAMART",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "UTI ASSET MNGMT CO LTD": {
+      "FIELD2": "UTIAMC",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "VADILAL INDUSTRIES LTD": {
+      "FIELD2": "VADILALIND",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "VAIBHAV GLOBAL LIMITED": {
+      "FIELD2": "VAIBHAVGBL",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "VALIANT ORGANICS LIMITED": {
+      "FIELD2": "VALIANTORG",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "VARROC ENGINEERING LTD.": {
+      "FIELD2": "VARROC",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "VARUN BEVERAGES LIMITED": {
+      "FIELD2": "VBL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "VEDANTA LIMITED": {
+      "FIELD2": "VEDL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "VENKY S (INDIA) LIMITED": {
+      "FIELD2": "VENKEYS",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "VESUVIUS INDIA LTD": {
+      "FIELD2": "VESUVIUS",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "V-GUARD IND LTD.": {
+      "FIELD2": "VGUARD",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "VIJAYA DIAGNOSTIC CEN LTD": {
+      "FIELD2": "VIJAYA",
+      "FIELD3": 45,
+      "FIELD4": 45
+   },
+   "VINATI ORGANICS LTD": {
+      "FIELD2": "VINATIORGA",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "VIP INDUSTRIES LTD": {
+      "FIELD2": "VIPIND",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "VISAKA INDUSTRIES LIMITED": {
+      "FIELD2": "VISAKAIND",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "VMART RETAIL LTD": {
+      "FIELD2": "VMART",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "VOLTAMP TRANSFORMERS LTD": {
+      "FIELD2": "VOLTAMP",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "VOLTAS LTD": {
+      "FIELD2": "VOLTAS",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "VRL LOGISTICS LIMITED": {
+      "FIELD2": "VRLLOG",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "VST TILLERS TRACTORS LTD": {
+      "FIELD2": "VSTTILLERS",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "VARDHMAN TEXTILES LIMITED": {
+      "FIELD2": "VTL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "VA TECH WABAG LTD": {
+      "FIELD2": "WABAG",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "WELSPUN CORP LIMITED": {
+      "FIELD2": "WELCORP",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "WELSPUN ENTERPRISES LTD.": {
+      "FIELD2": "WELENT",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "WELSPUN INDIA LTD": {
+      "FIELD2": "WELSPUNIND",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "WESTLIFE FOODWORLD LTD": {
+      "FIELD2": "WESTLIFE",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "WHIRLPOOL OF INDIA LTD": {
+      "FIELD2": "WHIRLPOOL",
+      "FIELD3": 70,
+      "FIELD4": 70
+   },
+   "WIPRO LTD": {
+      "FIELD2": "WIPRO",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "WOCKHARDT LIMITED": {
+      "FIELD2": "WOCKPHARMA",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "WONDERLA HOLIDAYS LTD.": {
+      "FIELD2": "WONDERLA",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "WEST COAST PAPER MILLS LT": {
+      "FIELD2": "WSTCSTPAPR",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "YES BANK LIMITED": {
+      "FIELD2": "YESBANK",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "ZEE ENTERTAINMENT ENT LTD": {
+      "FIELD2": "ZEEL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ZENSAR TECHNOLOGIES  LTD": {
+      "FIELD2": "ZENSARTECH",
+      "FIELD3": 50,
+      "FIELD4": 50
+   },
+   "ZEN TECHNOLOGIES LIMITED": {
+      "FIELD2": "ZENTEC",
+      "FIELD3": 0,
+      "FIELD4": 0
+   },
+   "ZF COM VE CTR SYS IND LTD": {
+      "FIELD2": "ZFCVINDIA",
+      "FIELD3": 60,
+      "FIELD4": 60
+   },
+   "ZOMATO LIMITED": {
+      "FIELD2": "ZOMATO",
+      "FIELD3": 55,
+      "FIELD4": 55
+   },
+   "ZYDUS LIFESCIENCES LTD": {
+      "FIELD2": "ZYDUSLIFE",
+      "FIELD3": 75,
+      "FIELD4": 75
+   },
+   "ZYDUS WELLNESS LIMITED": {
+      "FIELD2": "ZYDUSWELL",
+      "FIELD3": 60,
+      "FIELD4": 60
+   }
+}
