@@ -21,4 +21,4 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Run API call script
-      run: go run ../cron.go
+      run: go run cron.go
