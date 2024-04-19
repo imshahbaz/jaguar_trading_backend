@@ -7,18 +7,16 @@ import (
 )
 
 func main() {
-	url := "https://jaguar-trading-py.onrender.com/hello" // Replace this with the URL of the API you want to call
-	retryInterval := 5 * time.Second         // Interval between retries
+	url := "https://jaguar-trading-py.onrender.com/hello"
+	retryInterval := 5 * time.Second
 
-	// Create a channel to receive signals for graceful shutdown
 	stop := make(chan struct{})
 
-	// Start a goroutine to handle the API calls
 	go func() {
 		for {
 			select {
 			case <-stop:
-				return // Exit the goroutine if stop signal received
+				return
 			default:
 				fmt.Println("Attempting API call...")
 				resp, err := http.Get(url)
@@ -28,7 +26,11 @@ func main() {
 					defer resp.Body.Close()
 					if resp.StatusCode == http.StatusOK {
 						fmt.Println("API call successful!")
-						return // Exit the goroutine if 200 status code received
+						fmt.Println("Attempting second API call...")
+						secondURL := "https://jaguar-trading-py.onrender.com/publishMessage"
+						secondResp, _ := http.Get(secondURL)
+						defer secondResp.Body.Close()
+						return
 					}
 					fmt.Printf("Received status code: %d. Retrying in %s\n", resp.StatusCode, retryInterval)
 				}
@@ -37,11 +39,9 @@ func main() {
 		}
 	}()
 
-	// Wait for user input to stop the infinite loop
 	fmt.Println("Press Enter to stop...")
 	fmt.Scanln()
 
-	// Send stop signal to the goroutine
 	close(stop)
 
 	fmt.Println("Exiting...")
