@@ -5,23 +5,23 @@ on:
     branches:
       - master
   schedule:
-    - cron: '0 13 * * 1-5' # Runs every minute
+    - cron: '0 13 * * 1-5' # Runs every weekday at 1:00 PM UTC
 
 jobs:
   api_call:
     runs-on: ubuntu-latest
 
-     steps:
-     - name: Checkout repository
-       uses: actions/checkout@v2
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
     
-     - name: Set up JDK
-       uses: actions/setup-java@v2
-       with:
-         java-version: '11'
+      - name: Set up JDK
+        uses: actions/setup-java@v2
+        with:
+          java-version: '11'
     
-     - name: Build with Maven
-       run: mvn -B package --file pom.xml
+      - name: Build with Maven
+        run: mvn -B package --file pom.xml
     
-     - name: Run Java script
-       run: java -classpath target/classes APICaller
+      - name: Run Java script
+        run: java -classpath target/classes APICaller
