@@ -11,14 +11,17 @@ jobs:
   api_call:
     runs-on: ubuntu-latest
 
-    steps:
-    - name: Set up Go
-      uses: actions/setup-go@v2
-      with:
-        go-version: '1.16'
-
-    - name: Check out code
-      uses: actions/checkout@v2
-
-    - name: Run API call script
-      run: go run cron.go
+     steps:
+     - name: Checkout repository
+       uses: actions/checkout@v2
+    
+     - name: Set up JDK
+       uses: actions/setup-java@v2
+       with:
+         java-version: '11'
+    
+     - name: Build with Maven
+       run: mvn -B package --file pom.xml
+    
+     - name: Run Java script
+       run: java -classpath target/classes APICaller
