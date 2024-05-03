@@ -8,4 +8,8 @@ import java.util.List;
 
 public interface BackTesting {
     List<Stock> csvToStock(MultipartFile file, String date, int days) throws IOException;
+
+    void processCInkSheet(MultipartFile file) throws IOException;
+
+    void backtestTrades();
 }
