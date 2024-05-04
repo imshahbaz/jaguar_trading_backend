@@ -31,11 +31,13 @@ import java.util.stream.Collectors;
 @Service
 public class BackTestingImpl implements BackTesting {
 
+    public static String strategyName = "";
+
     static String URL = "http://localhost:8090/getData?symbol=%s&fromDate=%s&toDate=%s";
     private static ExecutorService pool = Executors.newFixedThreadPool(50);
     private RestTemplate restTemplate = new RestTemplate();
 
-    public static void readAllDataAtOnce(String name, Map<String, String> map, AtomicLong total, AtomicLong success) {
+    public static void readAllDataAtOnce(String name, Map<String, String> map, AtomicLong total, AtomicLong success, int daysToHold, float profitPercent) {
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd-MM-yyyy");
         Map<String, String[]> datePrice = new ConcurrentHashMap<>();
         String path = String.format("src/main/resources/csvs/%s.csv", name);
@@ -47,8 +49,8 @@ public class BackTestingImpl implements BackTesting {
         }
 
         map.keySet().forEach(key -> {
-            LocalDate tradeDate = LocalDate.parse(key, formatter);
-            tradeDate = tradeDate.plusDays(1);
+            LocalDate signalDate = LocalDate.parse(key, formatter);
+            LocalDate tradeDate = signalDate.plusDays(1);
             total.getAndIncrement();
             float buyPrice = 0;
             for (int i = 0; i < 5; i++) {
@@ -57,19 +59,17 @@ public class BackTestingImpl implements BackTesting {
                     tradeDate = tradeDate.plusDays(1);
                     continue;
                 }
-                /*if (Float.parseFloat(prices[1]) >= 1.015 * Float.parseFloat(prices[0]))
-                    success.getAndIncrement();*/
                 buyPrice = Float.parseFloat(prices[0]);
                 break;
             }
 
-            for (int i = 0; i < 10; i++) {
+            for (int i = 0; i < daysToHold; i++) {
                 String[] prices = datePrice.get(tradeDate.format(formatter));
                 if (prices == null) {
                     tradeDate = tradeDate.plusDays(1);
                     continue;
                 }
-                if (Float.parseFloat(prices[1]) >= 1.02 * buyPrice) {
+                if (Float.parseFloat(prices[1]) >= ((100 + profitPercent) / 100) * buyPrice) {
                     success.getAndIncrement();
                     break;
                 }
@@ -185,10 +185,12 @@ public class BackTestingImpl implements BackTesting {
             writer.writeAll(trades, false);
         }
 
+        strategyName = file.getOriginalFilename().split(",")[0].split(" ")[1];
+
     }
 
     @Override
-    public void backtestTrades() {
+    public Map<String, Object> backtestTrades(int daysToHold, float profitPercent) {
         Map<String, Map<String, String>> map = new ConcurrentHashMap<>();
         String path = String.format("src/main/resources/csvs/%s.csv", "trades");
         try (CSVReader csvReader = new CSVReader(new FileReader(path))) {
@@ -206,7 +208,7 @@ public class BackTestingImpl implements BackTesting {
         AtomicLong success = new AtomicLong(0);
         AtomicLong total = new AtomicLong(0);
         for (Map.Entry<String, Map<String, String>> entry : map.entrySet()) {
-            readAllDataAtOnce(entry.getKey(), entry.getValue(), total, success);
+            readAllDataAtOnce(entry.getKey(), entry.getValue(), total, success, daysToHold, profitPercent);
         }
 
         log.info("Success {}", success.get());
@@ -214,6 +216,13 @@ public class BackTestingImpl implements BackTesting {
         DecimalFormat decimalFormat = new DecimalFormat("#.##");
         float percent = ((float) success.get() / total.get()) * 100;
         log.info("Success Percentage {}", decimalFormat.format(percent));
+
+        return new LinkedHashMap<>() {{
+            put("Strategy", strategyName);
+            put("Success", success.get());
+            put("total", total.get());
+            put("Success Percentage", Float.parseFloat(decimalFormat.format(percent)));
+        }};
     }
 
 }

@@ -9,6 +9,7 @@ import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;
 import java.util.List;
+import java.util.Map;
 
 @RestController
 public class BackTestController {
@@ -27,8 +28,8 @@ public class BackTestController {
     }
 
     @GetMapping("/getBacktestResult")
-    public void getBacktestResult(){
-        backTesting.backtestTrades();
+    public Map<String, Object> getBacktestResult(@RequestParam int daysToHold, @RequestParam float profitPercent) {
+        return backTesting.backtestTrades(daysToHold, profitPercent);
     }
 
 }
