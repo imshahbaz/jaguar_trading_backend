@@ -12,14 +12,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
     
-      - name: Set up JDK
-        uses: actions/setup-java@v2
+      - name: Install Node.js
+        uses: actions/setup-node@v2
         with:
-          java-version: '17'
-          distribution: 'adopt'
+          node-version: '14'
 
-      - name: Build with Maven
-        run: mvn -B package --file pom.xml
-    
-      - name: Run Java script
-        run: java -classpath target/classes APICaller
+      - name: Run JavaScript script
+        run: |
+          node Cron.js
