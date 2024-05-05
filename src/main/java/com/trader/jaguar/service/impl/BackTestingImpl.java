@@ -18,6 +18,7 @@ import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
 import java.text.DecimalFormat;
 import java.time.LocalDate;
+import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
@@ -51,6 +52,9 @@ public class BackTestingImpl implements BackTesting {
         map.keySet().forEach(key -> {
             LocalDate signalDate = LocalDate.parse(key, formatter);
             LocalDate tradeDate = signalDate.plusDays(1);
+            if (tradeDate.isAfter(LocalDate.now(ZoneId.of("Asia/Kolkata")).minusDays(daysToHold)))
+                return;
+
             total.getAndIncrement();
             float buyPrice = 0;
             for (int i = 0; i < 5; i++) {
