@@ -72,7 +72,7 @@ public class BackTestingImpl implements BackTesting {
         });
     }
 
-    private static String formatDate(String date) {
+    public static String formatDate(String date) {
         String[] split = date.split("-");
         return String.format("%s-%s-%s", split[2], split[1], split[0]);
     }

@@ -10,7 +10,7 @@ import java.util.Map;
 
 @RestController
 @RequestMapping("/etf")
-public class EtfSortingController {
+public class EtfController {
 
     @Autowired
     private EtfService etfService;
@@ -18,5 +18,10 @@ public class EtfSortingController {
     @PostMapping(consumes = MediaType.MULTIPART_FORM_DATA_VALUE)
     public Map<String, Double> getEtf(@RequestPart MultipartFile file) {
         return etfService.getEtf(file);
+    }
+
+    @GetMapping("/getBacktestEtf")
+    public Map<String, String> getBacktestEtf(@RequestParam int numberOfDays, @RequestParam String etfName) {
+        return etfService.backTestEtf(numberOfDays, etfName);
     }
 }
