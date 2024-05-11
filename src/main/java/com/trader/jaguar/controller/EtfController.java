@@ -21,7 +21,7 @@ public class EtfController {
     }
 
     @GetMapping("/getBacktestEtf")
-    public Map<String, String> getBacktestEtf(@RequestParam int numberOfDays, @RequestParam String etfName) {
-        return etfService.backTestEtf(numberOfDays, etfName);
+    public Map<String, String> getBacktestEtf(@RequestParam int numberOfDays, @RequestParam String etfName, @RequestParam float percent) {
+        return etfService.backTestEtf(numberOfDays, etfName, percent);
     }
 }

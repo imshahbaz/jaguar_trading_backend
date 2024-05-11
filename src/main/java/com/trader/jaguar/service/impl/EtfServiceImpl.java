@@ -54,7 +54,7 @@ public class EtfServiceImpl implements EtfService {
     }
 
     @Override
-    public Map<String, String> backTestEtf(int numberOfDays, String etfName) {
+    public Map<String, String> backTestEtf(int numberOfDays, String etfName, float percent) {
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd-MM-yyyy");
         Map<String, String[]> datePrice = new ConcurrentHashMap<>();
         String path = String.format("src/main/resources/csvs/%s.csv", etfName);
@@ -91,7 +91,7 @@ public class EtfServiceImpl implements EtfService {
                 numOfTrades++;
             }
             double high = Double.parseDouble(price[1]);
-            if (high >= 1.02 * buyPrice) {
+            if (high >= ((100 + percent) / 100) * buyPrice) {
                 success++;
                 newTrade = true;
             } else {
