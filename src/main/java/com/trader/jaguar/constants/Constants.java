@@ -37,7 +37,8 @@ public class Constants {
         File file = new File("src/main/resources/convertcsv.csv");
         List<Leverage> list = mtfSorting.csvToMtf(CommonUtils.convertFile(file), (short) 60);
         list.parallelStream().forEach(leverage -> mstock.put(leverage.getSymbol(), leverage));
-        log.info("mstock : {}", mstock);
+        log.info("mstock : {}", gson.toJson(mstock));
+        log.info("leverages :{}",gson.toJson(list));
         loadRupeezy();
         log.info("rupeezy : {}", rupeezy);
     }
