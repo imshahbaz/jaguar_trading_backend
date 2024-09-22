@@ -33,7 +33,7 @@ public class BackTestingImpl implements BackTesting {
     public static void readAllDataAtOnce(String name, Map<String, String> map, AtomicLong total, AtomicLong success, int daysToHold, float profitPercent) {
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd-MM-yyyy");
         Map<String, String[]> datePrice = new ConcurrentHashMap<>();
-        String path = String.format("src/main/resources/csvs/%s.csv", name);
+        String path = String.format("src/main/resources/python_scripts/csvs/%s.csv", name);
         try (CSVReader csvReader = new CSVReaderBuilder(new FileReader(path)).withSkipLines(1).build()) {
             List<String[]> allData = csvReader.readAll();
             allData.forEach(rec -> datePrice.put(formatDate(rec[0]), new String[]{rec[1], rec[2]}));
