@@ -7,7 +7,7 @@ WORKDIR /app
 # Copy the JAR file into the container at /app
 COPY target/jaguar.jar /app/jaguar.jar
 
-# Expose the port that your Spring Boot application will run on
+# Expose the port that your Spring Booot application will run on
 EXPOSE 8090
 
 # Specify the command to run on container startup
