@@ -119,10 +119,10 @@ public class BackTestingImpl implements BackTesting {
             List<String[]> allData = csvReader.readAll();
             for (String[] record : allData) {
                 if (MapUtils.isEmpty(map.get(record[0]))) {
-                    map.put(record[0], new ConcurrentHashMap<>() {{
-                        put(record[1], record[0]);
+                    map.put(record[1], new ConcurrentHashMap<>() {{
+                        put(record[0], record[1]);
                     }});
-                } else map.get(record[0]).put(record[1], record[0]);
+                } else map.get(record[1]).put(record[0], record[1]);
             }
         } catch (Exception e) {
             log.error("{}", e.getMessage());

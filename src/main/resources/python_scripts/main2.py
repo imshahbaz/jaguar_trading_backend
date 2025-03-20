@@ -20,7 +20,7 @@ finally:
 
 equity_details = pd.read_csv('EQUITY_L.csv')
 
-for name  in equity_details.SYMBOL:
+for name in equity_details.SYMBOL:
     try:
         data = yf.download(f'{name}.NS')
         data.to_csv(f'./csvs/{name}.csv')
