@@ -34,45 +34,44 @@ public class BackTestingImpl implements BackTesting {
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd-MM-yyyy");
         Map<String, String[]> datePrice = new ConcurrentHashMap<>();
         String path = String.format("src/main/resources/python_scripts/csvs/%s.csv", name);
-        try (CSVReader csvReader = new CSVReaderBuilder(new FileReader(path)).withSkipLines(1).build()) {
+        try (CSVReader csvReader = new CSVReaderBuilder(new FileReader(path)).withSkipLines(3).build()) {
             List<String[]> allData = csvReader.readAll();
-            allData.forEach(rec -> datePrice.put(formatDate(rec[0]), new String[]{rec[1], rec[2]}));
+            allData.forEach(rec -> datePrice.put(formatDate(rec[0]), new String[]{rec[4], rec[2]}));
+
+            map.keySet().forEach(key -> {
+                LocalDate signalDate = LocalDate.parse(key, formatter);
+                LocalDate tradeDate = signalDate.plusDays(1);
+                if (tradeDate.isAfter(LocalDate.now(ZoneId.of("Asia/Kolkata")).minusDays(daysToHold)))
+                    return;
+
+                total.getAndIncrement();
+                float buyPrice = 0;
+                for (int i = 0; i < 5; i++) {
+                    String[] prices = datePrice.get(tradeDate.format(formatter));
+                    if (prices == null) {
+                        tradeDate = tradeDate.plusDays(1);
+                        continue;
+                    }
+                    buyPrice = Float.parseFloat(prices[0]);
+                    break;
+                }
+
+                for (int i = 0; i < daysToHold; i++) {
+                    String[] prices = datePrice.get(tradeDate.format(formatter));
+                    if (prices == null) {
+                        tradeDate = tradeDate.plusDays(1);
+                        continue;
+                    }
+                    if (Float.parseFloat(prices[1]) >= ((100 + profitPercent) / 100) * buyPrice) {
+                        success.getAndIncrement();
+                        break;
+                    }
+                    tradeDate = tradeDate.plusDays(1);
+                }
+            });
         } catch (Exception e) {
             log.error("{}", e.getMessage());
         }
-
-        map.keySet().forEach(key -> {
-            LocalDate signalDate = LocalDate.parse(key, formatter);
-            LocalDate tradeDate = signalDate.plusDays(1);
-            if (tradeDate.isAfter(LocalDate.now(ZoneId.of("Asia/Kolkata")).minusDays(daysToHold)))
-                return;
-
-            total.getAndIncrement();
-            float buyPrice = 0;
-            for (int i = 0; i < 5; i++) {
-                String[] prices = datePrice.get(tradeDate.format(formatter));
-                if (prices == null) {
-                    tradeDate = tradeDate.plusDays(1);
-                    continue;
-                }
-                buyPrice = Float.parseFloat(prices[0]);
-                break;
-            }
-
-            for (int i = 0; i < daysToHold; i++) {
-                String[] prices = datePrice.get(tradeDate.format(formatter));
-                if (prices == null) {
-                    tradeDate = tradeDate.plusDays(1);
-                    continue;
-                }
-                if (Float.parseFloat(prices[1]) >= ((100 + profitPercent) / 100) * buyPrice) {
-                    success.getAndIncrement();
-                    break;
-                }
-                tradeDate = tradeDate.plusDays(1);
-            }
-
-        });
     }
 
     public static String formatDate(String date) {
@@ -119,10 +118,10 @@ public class BackTestingImpl implements BackTesting {
             List<String[]> allData = csvReader.readAll();
             for (String[] record : allData) {
                 if (MapUtils.isEmpty(map.get(record[0]))) {
-                    map.put(record[1], new ConcurrentHashMap<>() {{
-                        put(record[0], record[1]);
+                    map.put(record[0], new ConcurrentHashMap<>() {{
+                        put(record[1], record[0]);
                     }});
-                } else map.get(record[1]).put(record[0], record[1]);
+                } else map.get(record[0]).put(record[1], record[0]);
             }
         } catch (Exception e) {
             log.error("{}", e.getMessage());
