@@ -1,11 +1,11 @@
 const https = require('https');
 
 // API endpoints
-//const firstAPIEndpoint = 'https://jaguar-trading-py.onrender.com/hello';
-//const secondAPIEndpoint = 'https://jaguar-trading-py.onrender.com/publishMessage';
+const firstAPIEndpoint = 'https://jaguar-trading-py.onrender.com/hello';
+const secondAPIEndpoint = 'https://jaguar-trading-py.onrender.com/publishMessage';
 
-const firstAPIEndpoint = "https://jaguar-trading-go.onrender.com"
-const secondAPIEndpoint = "https://jaguar-trading-go.onrender.com/telegram/publish"
+//const firstAPIEndpoint = "https://jaguar-trading-go.onrender.com"
+//const secondAPIEndpoint = "https://jaguar-trading-go.onrender.com/telegram/publish"
 
 // Call the first API until it returns 200 status code
 let firstAPIReached = false;
